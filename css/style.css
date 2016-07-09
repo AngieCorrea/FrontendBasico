@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #e8e6e6;
+}
+header{
+	background: #4F1271;
+	
+}
+.inline{
+	display: inline-block;
+
+}
+.inline ul li{
+	display: inline-block;
+	margin-right: 20px;
+	
+}
+
+.inline ul li:hover{
+	background: green;
+}
+.logo img{
+	width: 60px;
+	border-radius: 50%;
+}
+.logo{
+	border-right: 2px solid #0E79B2;
+	padding-right: 3px;
+}
+figure{
+	border-right: 2px solid red; 
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+section{
+	margin: 0;
+	padding: 0;
+}
+/* Estilos para article */
+article{
+  background: #ffffff;
+}
+
+/* Fin article */
+
+/*estilos para html5*/
